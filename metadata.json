@@ -1,0 +1,6 @@
+{
+  "name": "PDF Viewer By DILA",
+  "description": "A clean, lightweight, distraction-free PDF viewer app with light design, recent files tracking, page navigation, zoom, and dark reading mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
